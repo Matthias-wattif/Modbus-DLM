@@ -15,7 +15,7 @@ url = "https://wattif-de.eu-wattif.charge.ampeco.tech/public-api/actions/electri
 headers = {
     "accept": "application/json",
     "content-type": "application/json",
-    "authorization": "Bearer b1622386-4d09-4c52-81b5-ae0b2938424e"
+    "authorization": "Bearer b1622386-4d09-4c52-81b5-"
 }
 
 def read_phase_currents():
